@@ -1,0 +1,10 @@
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\bin\Debug\CalculatorCS.exe.config
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\bin\Debug\CalculatorCS.exe
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\bin\Debug\CalculatorCS.pdb
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.csproj.AssemblyReference.cache
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.calculator.resources
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.Properties.Resources.resources
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.csproj.GenerateResource.cache
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.csproj.CoreCompileInputs.cache
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.exe
+C:\Users\Joel.Santhana\Desktop\csBeginner\basic\CalculatorCS\CalculatorCS\obj\Debug\CalculatorCS.pdb
